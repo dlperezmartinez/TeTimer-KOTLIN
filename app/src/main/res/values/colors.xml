@@ -10,6 +10,6 @@
     <color name="fondo">#8BC34A</color>
     <color name="colorprimary_dark">#689F38</color>
     <color name="coloraccent">#CDDC39</color>
-
-
+    <color name="botones">#093f28</color>
+    <color name="bar">#1d2229</color>
 </resources>
